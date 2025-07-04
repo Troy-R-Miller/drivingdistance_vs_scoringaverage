@@ -2,7 +2,7 @@
 
 Tools: Python, Pandas, Numpy, Matplotlib, and Jupyter Notebook
 
-This project explores the relationship between 'Driving Distance" and 'Scoring Average' using PGA Tour statistics from the 2025 season. The key obejective is to investigate and determine whether longer drives lead to a lower scoring average. 
+This project explores the relationship between 'Driving Distance" and 'Scoring Average' using PGA Tour statistics from the 2025 season. The key objective is to investigate and determine whether longer drives lead to a lower scoring average. 
 
 The game of golf is fluid, technology is changing and the governing associations are needing to adapt the rules to keep up with the modern game. In recent years, Driver heads have become lighter, faster, new materials are being discovered to increase parameters such as ballspeed and shapes are being refined to reduce drag, increasing in how fast the player can move the club through the air during their swing. While the clubhead and players ability is a factor in how far they can hit it, another factor is the ball. Governing associations for the Rules of Golf have begun to implement a new rule against the golf ball that would have a direct impact on distance statistics for professionals. The aim at the reduction in distance, is in my opinion, to protect classic and historical golf courses that modern day professionals overpower with their great distance. The latter is the reason I initiated this project; to answer the question "Does hitting the ball farther actually lead to lower scores?" - Let's find out! 
 
